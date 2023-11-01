@@ -1,0 +1,6 @@
+projectKey=es.codeurjc.ais:a.delgadog.2019
+serverUrl=http://localhost:9000
+serverVersion=9.9.0.65466
+dashboardUrl=http://localhost:9000/dashboard?id=es.codeurjc.ais%3Aa.delgadog.2019
+ceTaskId=AYczRR1gka9ODkQmhoi4
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYczRR1gka9ODkQmhoi4
