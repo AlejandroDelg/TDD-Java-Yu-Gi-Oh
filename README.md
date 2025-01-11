@@ -1,7 +1,7 @@
 # TDD-Java-Yu-Gi-Oh
 
-Desarrollo dirigido por tests utilizando Junit para los tests, y Refactorización utilizando el propio IDE de visual studio code junto con sonarqube para verificar la calidad del código.
+Test-Driven Development (TDD) using JUnit for testing, and refactoring using the built-in tools of Visual Studio Code along with SonarQube to verify code quality.
 
-La aplicación se basa en el juego de cartas yu gi oh, donde cada carta tiene un determinado ataque, defensa y efecto, así como una posición.
+The application is based on the Yu-Gi-Oh card game, where each card has a specific attack, defense, effect, and position.
 
-Se empieza con unos primeros tests sencillos y poco a poco se va aumentando la complejidad, modificando el codigo si es necesario y refactorizando.
+It begins with simple initial tests, and complexity is gradually increased, modifying the code as needed and refactoring along the way.
